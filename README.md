@@ -4,12 +4,9 @@ Este é o site oficial do artista **Gere Blues**, ícone da guitarra blues em Ch
 
 ## 🔗 Acesse o site
 
-👉 [gereblues.com.br](https://gereblues.com.br) *(substituir pelo domínio real)*
-
----
+👉 [gereblues.com.br](https://gereblues.com.br) 
 
 
----
 
 ## ✨ Funcionalidades
 
